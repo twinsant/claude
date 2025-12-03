@@ -147,7 +147,7 @@ npm start
 
 ## 🔗 相关资源
 
-- [C 语言教程](https://www.learn-c.org/)
+- [C 语言教程 PDF](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf)
 - [C++ 参考](https://en.cppreference.com/)
 - [C# 文档](https://docs.microsoft.com/dotnet/csharp/)
 - [Go 官方文档](https://go.dev/doc/)
