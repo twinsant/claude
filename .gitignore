@@ -1,0 +1,63 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# C/C++ 编译输出
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+hello_c/helloworld
+hello_cpp/hello
+
+# Swift 编译输出
+hello_swift/hello
+*.swiftmodule
+*.swiftdoc
+
+# Go
+hello_go/main
+
+# Rust
+hello_rust/target/
+hello_rust/Cargo.lock
+
+# Python
+hello_py/__pycache__/
+hello_py/*.py[cod]
+hello_py/*$py.class
+hello_py/.pytest_cache/
+hello_py/.venv/
+hello_py/venv/
+hello_py/*.egg-info/
+
+# Node.js / TypeScript
+hello_ts/node_modules/
+hello_ts/dist/
+hello_ts/package-lock.json
+
+# Solidity / Hardhat
+hello_sol/node_modules/
+hello_sol/cache/
+hello_sol/artifacts/
+hello_sol/typechain-types/
+hello_sol/.env
+hello_sol/coverage/
+hello_sol/coverage.json
+
+# 编辑器和 IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 其他
+*.log
+.env
+.env.local
