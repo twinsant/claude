@@ -61,3 +61,4 @@ hello_sol/coverage.json
 *.log
 .env
 .env.local
+*.pkg
